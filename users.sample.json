@@ -1,1 +1,20 @@
-
+[
+  {
+    "EmployeeID": "ACME_001",
+    "GivenName": "Amy",
+    "Surname": "Santiago-Peralta",
+    "Dept_ID": "Digital Solutions"
+  },
+  {
+    "EmployeeID": "ACME_002",
+    "GivenName": "Maurice",
+    "Surname": "Moss",
+    "Dept_ID": "IT"
+  },
+  {
+    "EmployeeID": "ACME_003",
+    "GivenName": "Dwight",
+    "Surname": "Schrute",
+    "Dept_ID": "Office Management"
+  }
+]
